@@ -1,5 +1,7 @@
 # 100DaysOfCode
  ## Day 1 
-  - Create a basic landing page named (HTML & CSS Summary) using HTML & CSS
-  - Learn the basic about GIT and GITHUB
+  - [x] Create a basic landing page named (HTML & CSS Summary) using HTML & CSS
+  - [x] Learn the basic about GIT and GITHUB
+  ## Day 2 
+  - [x] Revisit flexbox and display grid.
 
