@@ -11,9 +11,9 @@ body{
     padding: 10px;
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
-    color: rgb(78, 236, 223);
+    color: rgb(12, 118, 122);
     text-transform: uppercase;
-    text-shadow: 2px 1px 2px rgb(0, 73, 122);
+    text-shadow: 2px 1px 2px rgb(37, 37, 37);
 }
 nav {
     display: flex;
